@@ -53,7 +53,7 @@
 <br>
 <br>
         <h3>O Projeto Horta Escolar iniciou-se em 2016 no Campus do CEFET Maria da Graça por intermédio da Professora Luciana e da Professora Fabiana. 
-        Nosso projeto consiste na implementação e manutenção de uma horta orgânica no âmbito escolar em que os horticultores são os próprios alunos, um deles é o bolsista e os outros são os voluntários. Os alimentos colhidos são encaminhados para a cozinha da escola Horácio Macedo, que fica localizada no Campus e que oferece refeições aos alunos do CEFET.
+        Nosso projeto consiste na implementação e manutenção de uma horta orgânica no âmbito escolar em que os horticultores são os ppróprios alunos, um deles é o bolsista e os outros são os voluntários. Os alimentos colhidos são encaminhados para a cozinha da escola Horácio Macedo, que fica localizada no Campus e que oferece refeições aos alunos do CEFET.
         </h3>
         <br>
         <br>
