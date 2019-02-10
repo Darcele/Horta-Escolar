@@ -1,0 +1,10 @@
+body{
+    background-image: url("/.jpg");
+}
+
+.jumbotron{
+    background-image: url("../imagens/fundo_3.jpg");
+    background-position-y: 10px;
+    background-position-x: 0px;
+    background-repeat: repeat;
+}
