@@ -2,7 +2,7 @@
     <head>
         <meta charset = "utf-8">
         <title>Aulas</title>
-        <link rel = "icon" href = "logo_.ico" width="40" height="40">
+        <link rel = "icon" href = "imagens/logo_.ico" width="40" height="40">
         <script src = "js/jquery.js"></script>
         <link rel = "stylesheet" href = "css/bootstrap.css">
         <link rel = "stylesheet" href = "css/design.css">
@@ -15,7 +15,7 @@
         <br>
         <br>
         <div class="container">  
-        <img src="logo_.png" class="img-rounded" alt="Cinque Terre" width="150" height="100" align="top" >
+        <img src="imagens/logo_.png" class="img-rounded" alt="Cinque Terre" width="150" height="100" align="top" >
         <h1>Aulas&nbsp;&nbsp;&nbsp;</h1>  
         </div>
     </div>
