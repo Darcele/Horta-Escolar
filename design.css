@@ -1,0 +1,18 @@
+body{
+    background-image: url("/.jpg");
+}
+
+
+.jumbotron{
+    background-image: url("../imagens/branco.jpg");
+    background-position-y: 10px;
+    background-position-x: 10px;
+    background-repeat: repeat;
+}
+
+.jumbotron2{
+    background-image: url("../imagens/fundo_verde.jpg");
+    background-position-y: 10px;
+    background-position-x: 10px;
+    background-repeat: repeat;
+}
